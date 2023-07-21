@@ -15,7 +15,7 @@ To use the Water Level Measurement System, follow these guidelines:
 1. Build the circuit using the provided components and wiring diagram. You can find the components list in [components.csv](https://github.com/roberrevil/Ultrasonic-Motor/blob/main/components.csv) and the wiring diagram in [wiring_diagram.jpg](https://github.com/roberrevil/Ultrasonic-Motor/blob/main/wiring_diagram.jpg).
 2. Download the project repository.
 3. Open Arduino IDE and establish a connection with the Arduino.
-4. Upload the [source code](https://github.com/roberrevil/Ultrasonic-Motor/blob/main/src/WaterLevelMeasuringSystem.cpp) to the Arduino.
+4. Upload the [source code](https://github.com/roberrevil/Ultrasonic-Motor/blob/main/src/UltrasnoicMotor.cpp) to the Arduino.
 5. Make sure the Arduino is connected to a power source for proper execution.
 
 ## License
