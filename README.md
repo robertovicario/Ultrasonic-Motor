@@ -2,7 +2,7 @@
 
 ## Overview
 
-Measure and monitor the water level in a container or reservoir. This project utilizes an Arduino Uno R3 microcontroller, a water sensor, and a set of LEDs to indicate the water level.
+Maximize efficiency and precision using ultrasonic sensing to control motor speed based on distance. Ideal for automation and robotics.
 
 ## Circuit
 
