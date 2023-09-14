@@ -6,16 +6,16 @@ Maximize efficiency and precision using ultrasonic sensing to control motor spee
 
 ## Circuit
 
-<img width="512" alt="circuit" src="https://github.com/roberrevil/Ultrasonic-Motor/blob/main/circuit.jpg">
+<img width="512" alt="circuit" src="https://github.com/robertovicario/Ultrasonic-Motor/blob/67d3aa0fb8fdc4869f351970627197537285d746/doc/circuit.jpg">
 
 ## Instructions
 
 To use the Water Level Measurement System, follow these guidelines:
 
-1. Build the circuit using the provided components and wiring diagram. You can find the components list in [components.csv](https://github.com/roberrevil/Ultrasonic-Motor/blob/main/components.csv) and the wiring diagram in [wiring_diagram.jpg](https://github.com/roberrevil/Ultrasonic-Motor/blob/main/wiring_diagram.jpg).
+1. Build the circuit using the provided components and wiring diagram. You can find the components list in [components.csv](https://github.com/robertovicario/Ultrasonic-Motor/blob/67d3aa0fb8fdc4869f351970627197537285d746/doc/components.csv) and the wiring diagram in [wiring_diagram.jpg](https://github.com/robertovicario/Ultrasonic-Motor/blob/67d3aa0fb8fdc4869f351970627197537285d746/doc/wiring_diagram.jpg).
 2. Download the project repository.
 3. Open Arduino IDE and establish a connection with the Arduino.
-4. Upload the [source code](https://github.com/roberrevil/Ultrasonic-Motor/blob/main/src/UltrasnoicMotor.cpp) to the Arduino.
+4. Upload the [source code](https://github.com/robertovicario/Ultrasonic-Motor/blob/67d3aa0fb8fdc4869f351970627197537285d746/src/UltrasonicMotor.cpp) to the Arduino.
 5. Make sure the Arduino is connected to a power source for proper execution.
 
 ## License
